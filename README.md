@@ -1,4 +1,4 @@
-# 🚀 EMATBS
+# EMATBS
 
 ### A Modern Full-Stack Web Application
 
@@ -6,13 +6,13 @@ EMATBS is a scalable and responsive full-stack web application built using the M
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project demonstrates strong fundamentals of full-stack development including frontend design, backend API development, and database management. It follows a modular architecture and industry-standard practices.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend**
 
@@ -36,18 +36,18 @@ This project demonstrates strong fundamentals of full-stack development includin
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-* 🔐 Authentication-ready structure
-* ⚡ REST API-based backend architecture
-* 📊 Efficient data handling with MongoDB
-* 🔄 Full CRUD functionality
-* 📱 Fully responsive design
-* 🧩 Modular and scalable codebase
+*  Authentication-ready structure
+*  REST API-based backend architecture
+*  Efficient data handling with MongoDB
+*  Full CRUD functionality
+*  Fully responsive design
+*  Modular and scalable codebase
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 EMATBS/
@@ -63,7 +63,7 @@ EMATBS/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1. Clone Repository
 
@@ -95,7 +95,7 @@ npm start
 
 ---
 
-## 🚀 Usage
+## Usage
 
 After running the server, open your browser and navigate to:
 
@@ -105,30 +105,26 @@ http://localhost:5000
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
-* 🔔 Real-time notifications
-* 🌐 Cloud deployment (AWS / Vercel / Render)
-* 🔐 Advanced authentication (JWT, OAuth)
-* 📊 Dashboard & analytics features
+*  Real-time notifications
+*  Cloud deployment (AWS / Vercel / Render)
+*  Advanced authentication (JWT, OAuth)
+*  Dashboard & analytics features
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome!
 Feel free to fork the repository and submit pull requests.
 
 ---
 
-## 📬 Contact
+## Author
 
 **Shrey Mehrotra**
-🔗 GitHub: https://github.com/shreymehrotra07
-🔗 LinkedIn: https://www.linkedin.com/in/shrey-mehrotra-8a89b9287/
+
+* GitHub: https://github.com/shreymehrotra07
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!

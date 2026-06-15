@@ -1,129 +1,126 @@
-# 🚀 EMATBS
+# 🎟️ EMATBS - Event Management & Ticket Booking System
 
-### A Modern Full-Stack Web Application (MERN Stack)
+A full-stack Event Management & Ticket Booking System built using the MERN Stack. The platform enables users to discover events, book tickets, manage reservations, and view event details through a modern and responsive interface.
 
-EMATBS is a scalable and responsive full-stack web application built using the MERN stack. It is designed to efficiently manage data, provide seamless user interaction, and deliver a clean, modern user experience.
+## 🚀 Live Demo
 
----
+https://event-management-and-ticket-booking-lac.vercel.app/
 
-## 🧠 Overview
+## ✨ Features
 
-This project demonstrates strong full-stack development skills, including frontend design, backend API development, and database management. It follows a modular architecture and industry-standard best practices, making it easy to scale and maintain.
-
----
+- User Authentication & Authorization
+- Browse Upcoming Events
+- Event Details Page
+- Ticket Booking System
+- Booking Management
+- Responsive Design
+- RESTful API Integration
+- Secure User Sessions
+- Modern UI/UX
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
+- React.js
+- Tailwind CSS
+- React Router DOM
+- Axios
 
-* HTML5, CSS3, Tailwind CSS
-* JavaScript (ES6+)
+### Backend
+- Node.js
+- Express.js
 
-**Backend**
+### Database
+- MongoDB
+- Mongoose
 
-* Node.js
-* Express.js
+### Authentication
+- JWT (JSON Web Tokens)
 
-**Database**
+### Deployment
+- Vercel
 
-* MongoDB
+## 📂 Project Structure
 
-**Tools & Practices**
-
-* RESTful APIs
-* Git & GitHub
-* MVC Architecture
-
----
-
-## ✨ Key Features
-
-* 🔐 Structured authentication-ready system
-* ⚡ REST API-based backend architecture
-* 📊 Efficient and scalable MongoDB data handling
-* 🔄 Complete CRUD functionality
-* 📱 Fully responsive UI across devices
-* 🧩 Clean, modular, and maintainable codebase
-
----
-
-## 📁 Project Structure
-
-```
+```bash
 EMATBS/
-├── client/          # Frontend
-├── server/          # Backend
-├── models/          # Database schemas
-├── routes/          # API routes
-├── controllers/     # Business logic
-├── config/          # Database configuration
-├── package.json
+├── frontend/
+│   ├── src/
+│   ├── components/
+│   ├── pages/
+│   └── assets/
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   └── config/
+│
 └── README.md
 ```
 
----
+## ⚡ Installation
 
-## ⚙️ Getting Started
-
-### 1. Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/shreymehrotra07/EMATBS.git
 cd EMATBS
 ```
 
-### 2. Install Dependencies
+### Install Frontend Dependencies
 
 ```bash
+cd frontend
 npm install
+npm run dev
 ```
 
-### 3. Environment Setup
-
-Create a `.env` file in the root directory:
-
-```
-MONGO_URI=your_mongodb_connection_string
-PORT=5000
-```
-
-### 4. Run the Application
+### Install Backend Dependencies
 
 ```bash
+cd backend
+npm install
 npm start
 ```
 
----
+## 🔑 Environment Variables
 
-## 🚀 Usage
+Create a `.env` file inside the backend folder.
 
-After running the server, open your browser:
-
+```env
+PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
 ```
-http://localhost:5000
-```
 
----
+## 📸 Key Functionalities
 
-## 📈 Future Enhancements
+- Event Creation & Management
+- Ticket Booking & Reservation
+- User Authentication
+- Booking History
+- Responsive Dashboard
+- Secure API Communication
 
-* 🔔 Real-time notifications
-* 🌐 Cloud deployment (AWS / Vercel / Render)
-* 🔐 Advanced authentication (JWT, OAuth)
-* 📊 Dashboard & analytics features
+## 🎯 Learning Outcomes
 
----
+This project demonstrates:
 
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork this repository and submit a pull request.
-
----
+- Full Stack MERN Development
+- REST API Design
+- Authentication & Authorization
+- Database Modeling
+- Deployment Workflow
+- Responsive UI Development
 
 ## 👨‍💻 Author
 
-**Shrey Mehrotra**
-🔗 GitHub: https://github.com/shreymehrotra07
+Shrey Mehrotra
 
----
+GitHub: https://github.com/shreymehrotra07
+
+## 📜 License
+
+This project is licensed under the MIT License.
